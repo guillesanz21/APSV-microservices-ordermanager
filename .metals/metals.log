@@ -1,0 +1,36 @@
+2022.12.28 11:34:35 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/guille/master/apsv/microservicios/ordermanager/.metals/lsp.trace.json or /home/guille/.cache/metals/lsp.trace.json[0m
+2022.12.28 11:34:36 INFO  logging to file /home/guille/master/apsv/microservicios/ordermanager/.metals/metals.log[0m
+2022.12.28 11:34:36 INFO  Started: Metals version 0.11.9 in workspace '/home/guille/master/apsv/microservicios/ordermanager' for client Visual Studio Code 1.74.2.[0m
+2022.12.28 11:34:37 INFO  time: initialize in 1.43s[0m
+Dec 28, 2022 11:34:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.12.28 11:34:39 WARN  Build server is not auto-connectable.[0m
+2022.12.28 11:34:39 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/main/java/es/upm/dit/apsv/ordermanager/controller/TransportationOrderController.java[0m
+2022.12.28 11:34:39 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/main/java/es/upm/dit/apsv/ordermanager/model/TransportationOrder.java[0m
+2022.12.28 11:34:40 INFO  time: code lens generation in 1.05s[0m
+Dec 28, 2022 11:34:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Dec 28, 2022 11:34:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2022.12.28 11:40:58 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/test/java/es/upm/dit/apsv/ordermanager/TransportationOrderControllerTest.java[0m
+2022.12.28 11:42:04 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/test/java/es/upm/dit/apsv/ordermanager/test.java[0m
+2022.12.28 11:43:28 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/test/java/es/upm/dit/apsv/ordermanager/test/TransportationOrderControllerTest.java[0m
+2022.12.28 11:55:34 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/test/java/es/upm/dit/apsv/ordermanager/test/TransportationOrderControllerTest.java[0m
+Dec 28, 2022 11:55:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 350
+2022.12.28 12:18:01 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/test/java/es/upm/dit/apsv/ordermanager/test/TransportationOrderControllerTest.java[0m
+2022.12.28 12:18:01 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/test/java/es/upm/dit/apsv/ordermanager/test/TransportationOrderControllerTest.java[0m
+Dec 28, 2022 12:19:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 382
+2022.12.28 12:19:37 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/test/java/es/upm/dit/apsv/ordermanager/test/TransportationOrderControllerTest.java[0m
+2022.12.28 13:18:51 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/main/java/es/upm/dit/apsv/ordermanager/model/TransportationOrder.java[0m
+2022.12.28 13:18:51 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/test/java/es/upm/dit/apsv/ordermanager/test/TransportationOrderControllerTest.java[0m
+2022.12.28 13:19:07 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/test/java/es/upm/dit/apsv/ordermanager/test/TransportationOrderControllerTest.java[0m
+2022.12.28 13:19:12 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/test/java/es/upm/dit/apsv/ordermanager/test/TransportationOrderControllerTest.java[0m
+2022.12.28 13:19:13 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/test/java/es/upm/dit/apsv/ordermanager/test/TransportationOrderControllerTest.java[0m
+2022.12.28 13:26:24 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/test/java/es/upm/dit/apsv/ordermanager/test/TransportationOrderControllerTest.java[0m
+2022.12.28 13:26:35 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/test/java/es/upm/dit/apsv/ordermanager/test/TransportationOrderControllerTest.java[0m
+2022.12.28 13:28:14 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/test/java/es/upm/dit/apsv/ordermanager/test/TransportationOrderControllerTest.java[0m
+2022.12.28 13:28:57 WARN  no build target for: /home/guille/master/apsv/microservicios/ordermanager/src/test/java/es/upm/dit/apsv/ordermanager/test/TransportationOrderControllerTest.java[0m
+Dec 28, 2022 2:21:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
